@@ -3,14 +3,14 @@ const chalk = require('chalk')
 
 
 //contact details
-global.ownernomer = "2348109263390"
+global.ownernomer = "919625470013"
 global.ownername = "ElitePro"
 global.ytname = "YT: @ElitePro-Empire"
 global.socialm = "GitHub: Elite-MD"
 global.location = "Nigeria, Port Harcourt"
 
 
-global.ownernumber = '2348109263390'  //creator number
+global.ownernumber = '919625470013'  //creator number
 global.ownername = 'ElitePro' //owner name
 global.botname = 'ELITE-PRO-V1' //name of the bot
 
@@ -21,8 +21,8 @@ global.prefa = ['','!','.','#','&']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
-global.autoTyping = false //auto typing
-global.autorecordtype = false //auto typing + recording
+global.autoTyping = true //auto typing
+global.autorecordtype = true //auto typing + recording
 global.antilink = false // default off
 
 
